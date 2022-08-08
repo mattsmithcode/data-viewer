@@ -16,7 +16,7 @@
         "webpack": "^5.0.0",
         "webpack-notifier": "^1.15.0"
     },
-    "license": "UNLICENSED",
+    "license": "ISC",
     "private": true,
     "scripts": {
         "dev-server": "encore dev-server",
